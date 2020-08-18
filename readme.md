@@ -1,13 +1,14 @@
-### Procoto postado aqui devido as opção nova eu  coloquei que não adere ao projeto orignal, as seguinte mudação foram feitas ou adicionada;
-Criado a opção da foto do ep. do  podcast ser mostrado em vez da foto do perfil do podcasta que era ultilizada.
-Adcionado a opção de colocar artigo.
-feito correção no update.
+### Projeto postado aqui devido as opções nova eu  coloquei que não adere ao projeto orignal, as seguintes mudação foram feitas ou adicionada;
+Criado a opção da foto do ep. do  podcast ser mostrado em vez da foto do perfil do podcast que era utilizada.
+Adicionado a opção de colocar artigo.
+Feita correção no update.
 
 
-### Procoto posted here due to the new option I put that does not adhere to the original design, the following changes were made or added;
-Created the ep photo option. of the podcast being shown instead of the podcasta profile picture that was used.
+
+### Project posted here due to the new options I placed that do not adhere to the original project, the following changes have been made or added;
+Created the ep photo option. of the podcast being shown instead of the podcast profile photo that was used.
 Added option to place article.
-made correction in the update.
+Correction made in the update.
 
 Recomendo usar Anchor para post os podcast. 
 ### Laravel Podcast is Laravel 5.5 web app that enables you to manage RSS feeds for your favorite podcasts and listen to the episodes in a seamless UI and User Authentication.
